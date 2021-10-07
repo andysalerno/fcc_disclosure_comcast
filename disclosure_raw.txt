@@ -38,7 +38,7 @@ Comcast provides its broadband Internet access service customers with full acces
 
 Device Attachment Rules
 
-Many devices are approved to access our broadband Internet access service. In order for a cable modem device to be approved for use on the network, it must pass CableLabs certification, UL certification, FCC certification, and Comcast device testing covering areas like DOCSIS performance, security certification, and integration with Comcast’s network and systems. In the DOCSIS Device Information Center, you can access a comprehensive list of all currently approved cable modems and EMTA devices. Comcast has also published the DOCSIS Cable Modem Process and Requirements for testing and certification of additional DOCSIS-compliant devices for use on the Comcast network. From time to time Comcast may “end of life” certain cable modem devices or cease permitting those devices to attach to the network for network management and security reasons.
+Many devices are approved to access our broadband Internet access service. In order for a cable modem device to be approved for use on the network, it must pass CableLabs certification, UL certification, FCC certification, and Comcast device testing covering areas like DOCSIS and WiFi performance, security, and integration with Comcast’s network and systems. Comcast contracts with a third-party, Kyrio, to perform certain device testing on Comcast's behalf. In the DOCSIS Device Information Center, you can access a comprehensive list of all currently approved cable modems and EMTA devices. For details about testing and certification requirements for DOCSIS-compliant devices for use on the Comcast network, contact Retail_Team@comcast.com. From time to time Comcast may “end of life” certain cable modem devices or cease permitting those devices to attach to the network for network management and security reasons.
 
 Security
 
@@ -64,7 +64,7 @@ Comcast’s Xfinity Internet broadband Internet access services may be subject t
 
 Data Usage Plans
 
-In certain markets, Comcast has deployed flexible data usage management approaches that provide its customers with choice and control. Under these plans, usage that exceeds a monthly usage threshold is subject to an additional charge, and in certain markets, customers on the Economy Plus tier can receive a credit on their monthly bills for using less than a prescribed data threshold. Xfinity's Data Usage Center provides further information about these data usage plans here. Outside of these markets, Comcast does not currently apply any “data caps,” usage thresholds, or any other form of usage-based billing, but reserves the right to do so.
+Comcast has deployed flexible data usage management approaches that provide its customers with choice and control. Under these plans, usage that exceeds a monthly usage threshold is subject to an additional charge or, alternatively, customers have the option of purchasing unlimited data plans for an additional monthly fee. In certain markets, customers who subscribed to the Economy Plus tier before July 1, 2020 can receive a credit on their monthly bills for using less than a prescribed data threshold. Xfinity's Data Usage Center provides further information about these data usage plans here.
 
 Privacy Policies
 
